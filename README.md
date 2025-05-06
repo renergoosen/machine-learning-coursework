@@ -8,7 +8,7 @@ Each project applies different machine learning algorithms to real-world dataset
 
 ## Contents
 
-### 1. *Olympic Medal Predictor**
+### 1. **Olympic Medal Predictor**
 - **Goal**: Predict the number of medals won by each country in the 2012 Olympics based on socio-economic data.
 - **Features**: Population, GDP, previous performance, and other socio-economic factors.
 - **Techniques used**: Linear regression, model selection (e.g., cross-validation).
